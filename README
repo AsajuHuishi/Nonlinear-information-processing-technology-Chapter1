@@ -1,3 +1,4 @@
 几种典型的混沌系统:洛伦兹混沌系统，Rossler混沌系统，Henon映射，Logistic映射，Duffing方程
 包括他们的时间序列，初值敏感性，吸引子，三维曲线等
-shizuo.xxx为主函数
+shizuo.xxx为主函数，直接运行即可
+20/2/28
